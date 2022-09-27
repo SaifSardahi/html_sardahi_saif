@@ -1,0 +1,54 @@
+Donjon 1 : justify-end
+
+
+Donjon 2 : justify-center
+
+
+Donjon 3 : justify-around
+
+
+Donjon 4 : justify-between
+
+
+Donjon 5 : items-center
+
+
+Donjon 6 : justify-center items-center
+
+
+Donjon 7 : justify-around items-end
+
+
+Donjon 8 : flex-row-reverse
+
+
+Donjon 9 : flex-col
+
+
+Donjon 10 : flex-col-reverse items-end justify-center
+
+
+Donjon 11 : order-last
+
+
+Donjon 12 : order-first
+
+
+Donjon 13 : self-center
+
+
+Donjon 14 : order-last self-end
+
+
+Donjon 15 : flex-wrap
+
+
+Donjon 16 : flex-wrap-reverse justify-end
+
+
+Donjon 17 : content-between
+
+
+Donjon 18 : flex-wrap-reverse content-center justify-center
+
+
