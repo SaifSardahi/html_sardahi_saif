@@ -1,11 +1,19 @@
 .el1 {
     background-color: aqua;
+    width: 10em;
 }
 
 .el2 {
     background-color: bisque;
+    width: 10em;
 }
 
 .el3 {
     background-color: brown;
+    width: 10em;
+}
+
+#conteneur {
+    display: flex;
+    flex-direction: column;
 }
